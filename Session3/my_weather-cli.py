@@ -1,5 +1,4 @@
 from requests import get
-import sys
 import click
 
 @click.command()
